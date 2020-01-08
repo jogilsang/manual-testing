@@ -6,13 +6,20 @@ Testing ?
 결함 발견 및 결함 예방
 ```
 
-##Word
+## 모르는 단어
 ```
 커버리지 분석기
 자동화 도구
 Inspection
 Known Error(알려진 에러)
 순환복잡도 
+CCB : 컨트롤 센터 보드(품질관리팀 & 해당 부서장)
+RTMS : 실시간 관리시스템으로 추정중
+SMS : 
+CRM : 
+EDI :
+SAS :
+BG :
 ```
 ## V 모델  
 1. Validation 과 Verification  
